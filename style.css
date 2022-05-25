@@ -1,0 +1,22 @@
+#calculatrice{
+    background-color: rgba(128, 128, 128, 0.164);
+    width: 500px;
+    height: 700px;
+    border-radius: 5%;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ecran{
+    width: 450px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
